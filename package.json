@@ -11,7 +11,7 @@
     "url": "https://github.com/mozilla/speaktome/issues"
   },
   "devDependencies": {
-    "eslint": "4.1.1",
+    "eslint": "7.4.0",
     "eslint-plugin-mozilla": "0.3.2",
     "npm-run-all": "4.0.2",
     "prettier": "1.5.3",
